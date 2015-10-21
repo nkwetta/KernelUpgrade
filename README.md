@@ -65,4 +65,5 @@ Output:
       CentOS Linux, with Linux 0-rescue-ee31ffedfc2a48d4b437f776818a7cd2
 
 `grub2-set-default 0` # for kernel 4.2.3-1.el7.elrepo.x86_64 to be default at boot time
+
 `grub2-set-default 1` # for kernel 3.10.0-229.14.1.el7.x86_64 to be default at boot time
