@@ -53,7 +53,7 @@
 ## 10. Verifying Kernel
       uname -r
       
-** You might need to set the default kernel at the time of boot, Alternatively you can specify the index of kernel to be default at boot time **
+**You might need to set the default kernel at the time of boot, Alternatively you can specify the index of kernel to be default at boot time**
 
       egrep ^menuentry /etc/grub2.cfg | cut -f 2 -d \'
 
